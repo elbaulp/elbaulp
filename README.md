@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a **Data Engineer** at [MOIA](https://github.com/moia-dev) [www.moia.io](https://www.moia.io/en).
+
+- 🌱 I’m currently learning Haskell
+
+Here is my blog: https://elbauldelprogramador.com/en/ 
+
 <!--
 **elbaulp/elbaulp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
