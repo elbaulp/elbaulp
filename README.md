@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Data Engineer** at [MOIA](https://github.com/moia-dev) [www.moia.io](https://www.moia.io/en).
+I am a **Data Engineer** at [MOIA](https://github.com/moia-dev) ([www.moia.io](https://www.moia.io/en)).
 
 - 🌱 I’m currently learning Haskell
 
