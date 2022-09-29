@@ -2,8 +2,8 @@
 
 I am a **Scala Engineer** at [MOIA](https://github.com/moia-dev) ([www.moia.io](https://www.moia.io/en)).
 
-- 🌱 I’m currently learning Haskell
-
+<!-- - 🌱 I’m currently learning Haskell
+-->
 Here is my blog: https://elbauldelprogramador.com/en/ 
 
 <!--
