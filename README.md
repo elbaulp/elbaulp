@@ -4,7 +4,7 @@ I am a **Scala Engineer** at [MOIA](https://github.com/moia-dev) ([www.moia.io](
 
 <!-- - 🌱 I’m currently learning Haskell
 -->
-Here is my blog: https://elbauldelprogramador.com/en/ 
+Here is my blog: https://elbauldelprogramador.com
 
 <!--
 **elbaulp/elbaulp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
